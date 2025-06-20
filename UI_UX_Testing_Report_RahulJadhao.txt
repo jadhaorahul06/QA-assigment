@@ -1,9 +1,9 @@
-S.No	Page/Section	Bug/Issue Description	Type	Suggestion for Improvement
-1	Home Page (Header)	Inconsistent font weight for the main navigation menu	UI	Use consistent font weight and size across all menu items
-2	Home Page	Call-to-Action buttons lack hover effect	UX	Add hover states for better interactivity feedback
-3	Home Page (Hero)	Text alignment slightly off on large screens	UI	Center-align content block or use responsive spacing
-4	Blog Section	Navigation bar overlaps with content on scroll	UX	Make navbar sticky or add proper spacing
-5	Footer	Social media icons not aligned properly	UI	Use flexbox or grid layout for proper alignment
-6	Mobile View	Menu button not responsive on small screens	UX	Fix mobile navigation toggle and test on common devices
-7	About Section	Large text blocks with no paragraph breaks	UX	Break long text into readable paragraphs
-8	Contact Form	No validation for email or phone fields	UX	Add input validation and error handling messages
+S.No	Page/Section	      Bug/Issue Description	                                 Type	 Suggestion for Improvement
+1	    Home Page (Header)	Inconsistent font weight for the main navigation menu  UI	   Use consistent font weight and size across all menu                                                                                          items
+2	    Home Page	          Call-to-Action buttons lack hover effect	             UX	   Add hover states for better interactivity feedback
+3	    Home Page (Hero)	  Text alignment slightly off on large screens	         UI	   Center-align content block or use responsive spacing
+4	    Blog Section	      Navigation bar overlaps with content on scroll	       UX	   Make navbar sticky or add proper spacing
+5	    Footer	            Social media icons not aligned properly	               UI	   Use flexbox or grid layout for proper alignment
+6	    Mobile View	        Menu button not responsive on small screens	           UX	   Fix mobile navigation toggle and test on common                                                                                              devices
+7	    About Section	      Large text blocks with no paragraph breaks	           UX	   Break long text into readable paragraphs
+8	    Contact Form	      No validation for email or phone fields	               UX	   Add input validation and error handling messages
